@@ -70,7 +70,7 @@ class Menu extends React.Component {
       <header className="menu">
         <div className="menu-container">
           <div className="menu-holder">
-            <h1>ELC</h1>
+            <h1>Search Products</h1>
             <nav>
               <a href="#" className="nav-item">
                 HOLIDAY
