@@ -36,7 +36,7 @@
   "keywords": [
     "Template"
   ],
-  "author": "DGC Online",
+  "author": "ELC Online",
   "license": "All rights reserved ELC Online",
   "devDependencies": {
     "@babel/core": "^7.14.6",
