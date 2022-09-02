@@ -11,3 +11,23 @@
 [5/8/2022 -- 16:50]  Mustache Templates ran on the HTML files
 [5/8/2022 -- 16:50]  Scripts ran on main.js
 [5/8/2022 -- 16:50]  Sass ran on files
+[1/9/2022 -- 9:25]  Info task started
+[1/9/2022 -- 9:25]  Mustache Templates ran on the HTML files
+[1/9/2022 -- 9:25]  Scripts ran on main.js
+[1/9/2022 -- 9:25]  Sass ran on files
+[1/9/2022 -- 9:29]  Info task started
+[1/9/2022 -- 9:30]  Mustache Templates ran on the HTML files
+[1/9/2022 -- 9:30]  Scripts ran on main.js
+[1/9/2022 -- 9:30]  Sass ran on files
+[1/9/2022 -- 10:7]  Info task started
+[1/9/2022 -- 10:7]  Mustache Templates ran on the HTML files
+[1/9/2022 -- 10:7]  Scripts ran on main.js
+[1/9/2022 -- 10:7]  Sass ran on files
+[1/9/2022 -- 10:8]  Info task started
+[1/9/2022 -- 10:8]  Mustache Templates ran on the HTML files
+[1/9/2022 -- 10:8]  Scripts ran on main.js
+[1/9/2022 -- 10:9]  Sass ran on files
+[1/9/2022 -- 10:26]  Info task started
+[1/9/2022 -- 10:26]  Mustache Templates ran on the HTML files
+[1/9/2022 -- 10:26]  Scripts ran on main.js
+[1/9/2022 -- 10:26]  Sass ran on files
